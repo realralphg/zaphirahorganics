@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="bg-grey-5">
         <div>
           <q-carousel
             v-model="slid"
@@ -25,14 +25,45 @@
           </q-carousel>
         </div>
 
+<!-- About Us -->
+        <div class="bg-green-2">
+          <div class="row">
+            <div class="column justify-center q-ml-md">
+              <q-icon name="eco" class="q-mr-xs" size="30px" color="primary"/>
+            </div>
+            <div class="text-h5 text-primary q-py-sm">
+              Your beauty, our pride.
+            </div>
+          </div>
+
+
+          <div class="text-grey-9 q-pb-md q-px-md">           
+            That is the reason at Zaphirah Organics, we trust that putting resources 
+            into excellent body and hair health management items and adopting a comprehensive 
+            and proactive strategy through organic routine is the right step to a lifetime of 
+            sound skin and hair. <br><br>
+
+            We offer proficient organic excellence brands, organic body care and hair items. 
+            <br><br>
+
+            Our customers are essential to us and we are here to help with all healthy skin 
+            and hair needs. We have faith in results.
+          </div> 
+        </div>
+ 
 <!-- Shop Stall -->
     <div class="bg-grey-4">         
-        <div class="text-weight-light text-h4 text-primary text-center">
-          Our Products!
-        </div>
+          <div class="row">
+            <div class="column justify-center q-ml-md">
+              <q-icon name="eco" class="q-mr-xs" size="30px" color="primary"/>
+            </div>
+            <div class="text-h5 text-primary q-py-sm">
+              Our Products.
+            </div>
+          </div>
 
         <div class="text-grey-9 q-mb-sm q-px-md">
-          We have the best organic products you'll need to keep your alive;
+          We have the best organic products you'll need to keep your skin and hair nourished;
           <ul>
             <li>Zaphirah Oils</li>
             <li>Zaphirah Face and Body Scrub</li>
@@ -101,7 +132,7 @@
 
 <!-- Shipping -->
         <div class="text-center q-pa-md">
-          <span class="text-weight-light text-primary text-h6">Shipping Information</span> <br>
+          <span class="text-primary text-h6">Shipping Information</span> <br>
           Thank you for shopping with us! <br>  
           All shipments will reach buyer in no less than 3days.
           Please fill in address correctly in appropriate field with 
@@ -170,8 +201,4 @@ export default {
   max-width: 350px;
 }
 
-
-/* .ruban{
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-} */
 </style>
