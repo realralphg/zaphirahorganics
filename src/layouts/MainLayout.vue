@@ -38,7 +38,7 @@
       <div class="text-center bg-grey-10">
         <div class="text-secondary">Zaphirah Organics</div>        
         <div class="text-grey-6">Copyright 2020</div>                
-        <div class="text-grey-6">From Greysoft Technologies</div>
+        <div class="text-grey-6">Greysoft Technologies</div>
       </div>
     </q-footer>
 

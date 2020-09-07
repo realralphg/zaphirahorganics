@@ -25,8 +25,9 @@
           </q-carousel>
         </div>
 
+
 <!-- About Us -->
-        <div class="bg-green-2">
+        <div class="aboutus bg-green-2">
           <div class="row">
             <div class="column justify-center q-ml-md">
               <q-icon name="eco" class="q-mr-xs" size="30px" color="primary"/>
@@ -50,9 +51,9 @@
             and hair needs. We have faith in results.
           </div> 
         </div>
- 
+
 <!-- Shop Stall -->
-    <div class="bg-grey-4">         
+    <div class="ourproducts bg-grey-4">         
           <div class="row">
             <div class="column justify-center q-ml-md">
               <q-icon name="eco" class="q-mr-xs" size="30px" color="primary"/>
